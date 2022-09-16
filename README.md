@@ -4,7 +4,7 @@
 3.GraphQl test request
 
 {
-  USTACustomer
+  Customer
     {
       firstname
     }
